@@ -221,7 +221,8 @@ def main():
   </div>
 
   <h2>Which services absorb the work</h2>
-  <p class="hint">Requests by division, three years combined.</p>
+  <p class="hint">Requests by division, three years combined.
+    Parks shows 2023–24 only — the division was renamed in 2025 (see caveat).</p>
   <div class="card">{bars(status, "division", "requests")}</div>
 
   <h2>Completion and cancellations</h2>
