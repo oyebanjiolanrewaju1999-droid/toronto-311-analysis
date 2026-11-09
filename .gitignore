@@ -1,0 +1,6 @@
+data/raw/
+data/extracted/
+toronto311.db
+toronto311.db-wal
+toronto311.db-shm
+__pycache__/
